@@ -16,3 +16,6 @@ Minhas stacks de desenvolvimento atuais: <br><br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAVieira&theme=shadow_green" />
 </a>
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cesaravieira/)
